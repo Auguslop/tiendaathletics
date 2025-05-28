@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /add-product/
+Disallow: /edit-product/
+
+Sitemap: https://clasificados-online.vercel.app/sitemap.xml
